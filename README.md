@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Meu nome é Amanda e tenho 26 anos. Sou uma grande admiradora do universo dos dados. No momento, estou focada em me aprimorar no estudo de Banco de Dados, buscando explorar mais a fundo esse campo fascinante. Tenho uma paixão especial por Python, o qual considero uma ferramenta robusta e versátil para a manipulação e análise de dados. Além disso, possuo habilidades avançadas no Excel, o que me permite conduzir análises minuciosas e resolver problemas de forma eficaz. Estou sempre em busca de desafios que me desafiem a aplicar minhas habilidades analíticas e encontrar soluções inovadoras.</p>
+<p align="left">Sou uma grande admiradora do universo dos dados. No momento, estou focada em me aprimorar no estudo de Banco de Dados, buscando explorar mais a fundo esse campo fascinante. Tenho uma paixão especial por Python, o qual considero uma ferramenta robusta e versátil para a manipulação e análise de dados. Além disso, possuo habilidades avançadas no Excel, o que me permite conduzir análises minuciosas e resolver problemas de forma eficaz. Estou sempre em busca de desafios que me desafiem a aplicar minhas habilidades analíticas e encontrar soluções inovadoras.</p>
 
 ###
 
